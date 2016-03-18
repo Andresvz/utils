@@ -1,4 +1,4 @@
-# Utis doc
+# Utils doc
 ubuntu conf 
 
 ## Basic 
